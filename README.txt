@@ -1,31 +1,45 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfólio de Ciência de Dados
 
+## Bem-vindo!
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+Olá! Eu sou Felipe Valory, apaixonado por tecnologia e análise de dados. Se você está aqui, é porque compartilha do mesmo entusiasmo por transformar dados em insights valiosos. Estou em busca de oportunidades na área de Ciência de Dados, e gostaria de convidá-lo a explorar meu portfólio.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## O Que Você Vai Encontrar
 
-(* = not included)
+### Sobre Mim
+Uma breve introdução sobre quem eu sou, minha formação, trajetória e o que me motiva na área de Ciência de Dados. 
 
-AJ
-aj@lkn.io | @ajlkn
+### Projetos
+Uma seleção dos projetos mais impactantes que desenvolvi, mostrando minhas habilidades práticas e minha capacidade de resolver problemas reais com dados. Aqui estão alguns destaques:
 
+#### [Projeto 1: Análise de Dados de Delivery]
+- **Descrição:** Desenvolvimento de um painel de controle para monitorar KPIs estratégicos de uma empresa de delivery.
+- **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Streamlit, Git
+- **Repositório:** [Link para o projeto no GitHub](https://github.com/seu-usuario/projeto1)
 
-Credits:
+<!---
+#### [Projeto 2: Previsão de Vendas]
+- **Descrição:** Criação de um modelo de machine learning para prever vendas em uma empresa de varejo.
+- **Tecnologias Utilizadas:** Python, Scikit-learn, Pandas, Matplotlib
+- **Repositório:** [Link para o projeto no GitHub](https://github.com/seu-usuario/projeto2)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+#### [Projeto 3: Análise de Sentimentos]
+- **Descrição:** Análise de sentimentos de avaliações de produtos, utilizando técnicas de NLP.
+- **Tecnologias Utilizadas:** Python, NLTK, Pandas, Matplotlib
+- **Repositório:** [Link para o projeto no GitHub](https://github.com/seu-usuario/projeto3)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+### Blog
+Artigos e insights sobre temas atuais em Ciência de Dados, onde compartilho meu conhecimento e experiências.
+-->
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contato
+
+Estou entusiasmado para discutir como posso agregar valor à sua equipe com minhas habilidades em Ciência de Dados. Vamos conversar?
+
+- **Email:** [felipevalory@gmail.com]
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/felipevalory/)
+- **Website:** [Seu Website](https://felipevalory.github.io/portfolio_projects/)
+
+---
+
+Agradeço por visitar meu portfólio. Vamos transformar dados em decisões estratégicas juntos!
