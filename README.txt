@@ -7,7 +7,7 @@ Olá! Eu sou Felipe Valory, apaixonado por tecnologia e análise de dados. Se vo
 ## O Que Você Vai Encontrar
 
 ### Sobre Mim
-Uma breve introdução sobre quem eu sou, minha formação, trajetória e o que me motiva na área de Ciência de Dados. 
+Uma breve introdução sobre quem eu sou, um detalhamento da minha formação, experiências e trajetória, além do que me motiva na área de Ciência de Dados. 
 
 ### Projetos
 Uma seleção dos projetos mais impactantes que desenvolvi, mostrando minhas habilidades práticas e minha capacidade de resolver problemas reais com dados. Aqui estão alguns destaques:
