@@ -14,7 +14,7 @@ Uma seleção dos projetos mais impactantes que desenvolvi, mostrando minhas hab
 
 #### Projeto 1: Análise de Dados de Delivery
 - **Descrição:** Desenvolvimento de um painel de controle para monitorar KPIs estratégicos de uma empresa de delivery.
-- **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Streamlit, Git
+- **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Plotly, Streamlit, Streamlit Cloud, Git, Jupyter Lab
 - **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Curry-Company)
 
 <!---
