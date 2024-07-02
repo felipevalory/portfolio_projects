@@ -12,7 +12,7 @@ Uma breve introdução sobre quem eu sou, um detalhamento da minha formação, e
 ### Projetos
 Uma seleção dos projetos mais impactantes que desenvolvi, mostrando minhas habilidades práticas e minha capacidade de resolver problemas reais com dados. Aqui estão alguns destaques:
 
-#### [Projeto 1: Análise de Dados de Delivery]
+#### Projeto 1: Análise de Dados de Delivery
 - **Descrição:** Desenvolvimento de um painel de controle para monitorar KPIs estratégicos de uma empresa de delivery.
 - **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Streamlit, Git
 - **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Curry-Company)
@@ -37,8 +37,8 @@ Artigos e insights sobre temas atuais em Ciência de Dados, onde compartilho meu
 Estou entusiasmado para discutir como posso agregar valor à sua equipe com minhas habilidades em Ciência de Dados. Vamos conversar?
 
 - **Email:** [felipevalory@gmail.com]
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/felipevalory/)
-- **Website:** [Seu Website](https://felipevalory.github.io/portfolio_projects/)
+- **LinkedIn:** [Felipe Valory](https://www.linkedin.com/in/felipevalory/)
+- **Website:** [Portfólio Felipe Valory](https://felipevalory.github.io/portfolio_projects/)
 
 ---
 
