@@ -17,12 +17,12 @@ Uma seleção dos projetos mais impactantes que desenvolvi, mostrando minhas hab
 - **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Plotly, Streamlit, Streamlit Cloud, Git, Jupyter Lab
 - **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Curry-Company)
 
-#### [Projeto 2: Ensaios de Machine Learning]
+#### Projeto 2: Ensaios de Machine Learning
 - **Descrição:** Análise de performance em modelos de Regressao, Classificação e Clusterização.
 - **Tecnologias Utilizadas:** Algoritmos de Regressão, Classificação e Clusterização, Métricas de Performance (RMSE, MSE, MAE, MAPE, Precision, Recall, ROC, F1-Score, Silhouette Score e R2) e Pacotes de Machine Learning Sklearn 
 - **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Machine_Learning)
 
-#### [Projeto 3: Dashboard Airbnb]
+#### Projeto 3: Dashboard Airbnb
 - **Descrição:** Análise de dados do faturamento do Airbnb e comportamento de público para geração de insights.
 - **Tecnologias Utilizadas:** Power Query e Power BI
 - **Repositório:** [Acesse o dashboard](https://bit.ly/3SfpE4V)
