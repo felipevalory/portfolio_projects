@@ -12,22 +12,27 @@ Uma breve introdução sobre quem eu sou, um detalhamento da minha formação, e
 ### Projetos
 Uma seleção dos projetos mais impactantes que desenvolvi, mostrando minhas habilidades práticas e minha capacidade de resolver problemas reais com dados. Aqui estão alguns destaques:
 
-#### Projeto 1: Previsão de Vendas de rede de Drogaria
+#### Projeto 1: Previsão de churn e retenção de clientes de um banco
+- **Descrição:** Modelo de Machine Learn para prever o churn (cancelamento) de contas de clientes de um banco
+- **Tecnologias Utilizadas:** Python, Pandas, Numpy, Seaborn, Scikit-Learn, Random Forest, Git e Metodologia Ágil
+- **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Churn_Bank)
+
+#### Projeto 2: Previsão de Vendas de rede de Drogaria
 - **Descrição:** Modelo de Machine Learn para prever as vendas das próximas seis semanas das lojas da rede Rossmann
 - **Tecnologias Utilizadas:** Python, Pandas, Numpy, Flask, Inflection, Seaborn, Scikit-Learn, Boruta, Linear Regression, Random Forest XGBoost, Git, Heroku Cloud e Metodologia Ágil
 - **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/previsao_de_vendas)
 
-#### Projeto 2: Análise de Dados de Delivery
+#### Projeto 3: Análise de Dados de Delivery
 - **Descrição:** Desenvolvimento de um painel de controle para monitorar KPIs estratégicos de uma empresa de delivery
 - **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Plotly, Streamlit, Streamlit Cloud, Git, Jupyter Lab
 - **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Curry-Company)
 
-#### Projeto 3: Ensaios de Machine Learning
+#### Projeto 4: Ensaios de Machine Learning
 - **Descrição:** Análise de performance em modelos de Regressao, Classificação e Clusterização
 - **Tecnologias Utilizadas:** Algoritmos de Regressão, Classificação e Clusterização, Métricas de Performance (RMSE, MSE, MAE, MAPE, Precision, Recall, ROC, F1-Score, Silhouette Score e R2) e Pacotes de Machine Learning Sklearn 
 - **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Machine_Learning)
 
-#### Projeto 4: Dashboard Airbnb
+#### Projeto 5: Dashboard Airbnb
 - **Descrição:** Análise de dados do faturamento do Airbnb e comportamento de público para geração de insights
 - **Tecnologias Utilizadas:** Power Query e Power BI
 - **Repositório:** [Acesse o dashboard](https://bit.ly/3SfpE4V)
