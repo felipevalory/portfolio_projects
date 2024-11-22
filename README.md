@@ -53,12 +53,12 @@ A showcase of the most impactful projects I’ve developed, demonstrating my han
 
 ## Tools
 
-**Data Collect and Storage:** SQL, MySQL and Postgres
-**Data Process and Analysis:** Python
-**Development:** Git, Scrum, Project Management
-**Data Visualization:** Power BI and Looker
-**Machine Learning Modeling:** Classification, Regression and Clustering
-**Machine Learning Deployment:** AWS Cloud, Heroku, Streamlit Cloud, Google Cloud Platform (GCP)   
+- **Data Collect and Storage:** SQL, MySQL and Postgres
+- **Data Process and Analysis:** Python
+- **Development:** Git, Scrum, Project Management
+- **Data Visualization:** Power BI and Looker
+- **Machine Learning Modeling:** Classification, Regression and Clustering
+- **Machine Learning Deployment:** AWS Cloud, Heroku, Streamlit Cloud, Google Cloud Platform (GCP)   
 
 ## Let's Connect  
 
