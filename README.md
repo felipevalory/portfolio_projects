@@ -4,8 +4,6 @@
 
 Hi! I'm Felipe Valory, a data scientist skilled at transforming data into valuable insights that drive business results.  
 
----
-
 ## About My Experience  
 
 I’ve had the opportunity to develop solutions for important business challenges, such as:  
@@ -15,10 +13,8 @@ I’ve had the opportunity to develop solutions for important business challenge
 - Creating data-driven dashboards for management.  
 - Designing movie recommendation systems and more.   
 
-### **Click here to dive into my portfolio:**  
-- **Website:** [Felipe Valory Portfolio](https://felipevalory.github.io/portfolio_projects/)  
+### **Click [here](https://felipevalory.github.io/portfolio_projects/)  to dive into my portfolio!**  
 
----
 
 ## What You'll Find  
 
@@ -53,7 +49,6 @@ A showcase of the most impactful projects I’ve developed, demonstrating my han
 - **Technologies Used:** Power Query, Power BI.  
 - **Repository:** [Access the Dashboard](https://bit.ly/3SfpE4V)  
 
----
 
 ## Let's Connect  
 
