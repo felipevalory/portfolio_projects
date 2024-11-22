@@ -101,3 +101,6 @@ dmypy.json
 
 # profiling data
 .prof
+
+# gitignore
+.gitignore
