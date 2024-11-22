@@ -42,7 +42,7 @@ pip-delete-this-directory.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
-index.html/
+index.html
 
 # IPython
 profile_default/
