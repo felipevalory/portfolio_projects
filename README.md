@@ -1,65 +1,72 @@
-# Portfólio de Ciência de Dados
+# Data Scientist Portfolio  
 
-## Bem-vindo!
+## Welcome!  
 
-Olá! Eu sou Felipe Valory, apaixonado por tecnologia e análise de dados. Se você está aqui, é porque compartilha do mesmo entusiasmo por transformar dados em insights valiosos. Estou em busca de oportunidades na área de Ciência de Dados, e gostaria de convidá-lo a explorar meu portfólio.
+Hi! I'm Felipe Valory, a data scientist skilled at transforming data into valuable insights that drive business results.
 
-## O Que Você Vai Encontrar
+I’m experienced in every step of creating data-driven business solutions, from understanding the problem to deploying the model in production using cloud platforms.
 
-### Sobre Mim
-Uma breve introdução sobre quem eu sou, um detalhamento da minha formação, experiências e trajetória, além do que me motiva na área de Ciência de Dados. 
+## About My Experience  
 
-### Projetos
-Uma seleção dos projetos mais impactantes que desenvolvi, mostrando minhas habilidades práticas e minha capacidade de resolver problemas reais com dados. Aqui estão alguns destaques:
+I’ve had the opportunity to develop solutions for important business challenges, such as:  
+- Forecasting property prices.  
+- Identifying customers at risk of churn.  
+- Predicting sales trends.  
+- Creating data-driven dashboards for management.  
+- Designing movie recommendation systems and more.   
 
-#### Projeto 1: Previsão de churn e retenção de clientes de um banco
-- **Descrição:** Modelo de Machine Learn para prever o churn (cancelamento) de contas de clientes de um banco
-- **Tecnologias Utilizadas:** Python, Pandas, Numpy, Seaborn, Scikit-Learn, Random Forest, Git e Metodologia Ágil
-- **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Churn_Bank)
+### **Click [here](https://felipevalory.github.io/portfolio_projects/)  to dive into my portfolio!**  
 
-#### Projeto 2: Previsão de Vendas de rede de Drogaria
-- **Descrição:** Modelo de Machine Learn para prever as vendas das próximas seis semanas das lojas da rede Rossmann
-- **Tecnologias Utilizadas:** Python, Pandas, Numpy, Flask, Inflection, Seaborn, Scikit-Learn, Boruta, Linear Regression, Random Forest XGBoost, Git, Heroku Cloud e Metodologia Ágil
-- **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/previsao_de_vendas)
 
-#### Projeto 3: Análise de Dados de Delivery
-- **Descrição:** Desenvolvimento de um painel de controle para monitorar KPIs estratégicos de uma empresa de delivery
-- **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Plotly, Streamlit, Streamlit Cloud, Git, Jupyter Lab
-- **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Curry-Company)
+## What You'll Find  
 
-#### Projeto 4: Ensaios de Machine Learning
-- **Descrição:** Análise de performance em modelos de Regressao, Classificação e Clusterização
-- **Tecnologias Utilizadas:** Algoritmos de Regressão, Classificação e Clusterização, Métricas de Performance (RMSE, MSE, MAE, MAPE, Precision, Recall, ROC, F1-Score, Silhouette Score e R2) e Pacotes de Machine Learning Sklearn 
-- **Repositório:** [Link para o projeto no GitHub](https://github.com/felipevalory/Machine_Learning)
+### About Me  
+A quick introduction to who I am, including my background, experiences, and career path, along with what drives me in the world of Data Science.  
 
-#### Projeto 5: Dashboard Airbnb
-- **Descrição:** Análise de dados do faturamento do Airbnb e comportamento de público para geração de insights
-- **Tecnologias Utilizadas:** Power Query e Power BI
-- **Repositório:** [Acesse o dashboard](https://bit.ly/3SfpE4V)
+### Projects  
+A showcase of the most impactful projects I’ve developed, demonstrating my hands-on skills and ability to solve real-world problems using data. Here are some highlights:  
 
-<!---
-#### [Projeto 2: Previsão de Vendas]
-- **Descrição:** Criação de um modelo de machine learning para prever vendas em uma empresa de varejo.
-- **Tecnologias Utilizadas:** Python, Scikit-learn, Pandas, Matplotlib
-- **Repositório:** [Link para o projeto no GitHub](https://github.com/seu-usuario/projeto2)
+#### **Project 1: Predicting Customer Churn and Retention for a Bank**  
+- **Description:** A Machine Learning model to predict customer churn (account cancellations) for a bank.  
+- **Technologies Used:** Python, Pandas, Numpy, Seaborn, Scikit-Learn, Random Forest, Git, Agile Methodology.  
+- **Repository:** [GitHub Link](https://github.com/felipevalory/Churn_Bank)  
 
-#### [Projeto 3: Análise de Sentimentos]
-- **Descrição:** Análise de sentimentos de avaliações de produtos, utilizando técnicas de NLP.
-- **Tecnologias Utilizadas:** Python, NLTK, Pandas, Matplotlib
-- **Repositório:** [Link para o projeto no GitHub](https://github.com/seu-usuario/projeto3)
+#### **Project 2: Sales Forecast for a Drugstore Chain**  
+- **Description:** A Machine Learning model to predict the next six weeks of sales for Rossmann stores.  
+- **Technologies Used:** Python, Pandas, Numpy, Flask, Inflection, Seaborn, Scikit-Learn, Boruta, Linear Regression, Random Forest, XGBoost, Git, Heroku Cloud, Agile Methodology.  
+- **Repository:** [GitHub Link](https://github.com/felipevalory/previsao_de_vendas)  
 
-### Blog
-Artigos e insights sobre temas atuais em Ciência de Dados, onde compartilho meu conhecimento e experiências.
--->
+#### **Project 3: Delivery Data Analysis**  
+- **Description:** A dashboard to monitor strategic KPIs for a delivery company.  
+- **Technologies Used:** Python, Pandas, Matplotlib, Plotly, Streamlit, Streamlit Cloud, Git, Jupyter Lab.  
+- **Repository:** [GitHub Link](https://github.com/felipevalory/Curry-Company)  
 
-## Contato
+#### **Project 4: Machine Learning Experiments**  
+- **Description:** Performance analysis of Regression, Classification, and Clustering models.  
+- **Technologies Used:** Regression, Classification, and Clustering Algorithms, Performance Metrics (RMSE, MSE, MAE, MAPE, Precision, Recall, ROC, F1-Score, Silhouette Score, R2), Scikit-Learn.  
+- **Repository:** [GitHub Link](https://github.com/felipevalory/Machine_Learning)  
 
-Estou entusiasmado para discutir como posso agregar valor à sua equipe com minhas habilidades em Ciência de Dados. Vamos conversar?
+#### **Project 5: Airbnb Dashboard**  
+- **Description:** Data analysis for Airbnb revenue and customer behavior to generate insights.  
+- **Technologies Used:** Power Query, Power BI.  
+- **Repository:** [Access the Dashboard](https://bit.ly/3SfpE4V)  
 
-- **Email:** [felipevalory@gmail.com]
-- **LinkedIn:** [Felipe Valory](https://www.linkedin.com/in/felipevalory/)
-- **Website:** [Portfólio Felipe Valory](https://felipevalory.github.io/portfolio_projects/)
+## Tools
+
+- **Data Collect and Storage:** SQL, MySQL and Postgres
+- **Data Process and Analysis:** Python
+- **Development:** Git, Scrum, Project Management
+- **Data Visualization:** Power BI, Looker and Streamlit web
+- **Machine Learning Modeling:** Classification, Regression and Clustering
+- **Machine Learning Deployment:** AWS Cloud, Heroku, Streamlit Cloud, Google Cloud Platform (GCP)   
+
+## Let's Connect  
+
+I'm excited to discuss how my Data Science skills can add value to your team. Feel free to reach out!  
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipevalory@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipevalory/)
 
 ---
 
-Agradeço por visitar meu portfólio. Vamos transformar dados em decisões estratégicas juntos!
+Thank you for visiting my portfolio. Let’s turn data into strategic decisions together!  
