@@ -24,29 +24,34 @@ I’ve had the opportunity to develop solutions for important business challenge
 A quick introduction to who I am, including my background, experiences, and career path, along with what drives me in the world of Data Science.  
 
 ### Projects  
-A showcase of the most impactful projects I’ve developed, demonstrating my hands-on skills and ability to solve real-world problems using data. Here are some highlights:  
+A showcase of the most impactful projects I’ve developed, demonstrating my hands-on skills and ability to solve real-world problems using data. Here are some highlights: 
 
-#### **Project 1: Predicting Customer Churn and Retention for a Bank**  
+#### **Project 1: Health Insurance Cross-sell**  
+- **Description:** This project aims to rank a list of potential customers based on their likelihood of purchasing car insurance (propensity score).  
+- **Technologies Used:** Python, Pandas, Sweetviz, Seaborn, Scikit-Learn, Machine Learning models, Git, Agile Methodology.  
+- **Repository:** [GitHub Link](https://github.com/felipevalory/InsuranceCrossSell)
+
+#### **Project 2: Predicting Customer Churn and Retention for a Bank**  
 - **Description:** A Machine Learning model to predict customer churn (account cancellations) for a bank.  
 - **Technologies Used:** Python, Pandas, Numpy, Seaborn, Scikit-Learn, Random Forest, Git, Agile Methodology.  
 - **Repository:** [GitHub Link](https://github.com/felipevalory/Churn_Bank)  
 
-#### **Project 2: Sales Forecast for a Drugstore Chain**  
+#### **Project 3: Sales Forecast for a Drugstore Chain**  
 - **Description:** A Machine Learning model to predict the next six weeks of sales for Rossmann stores.  
 - **Technologies Used:** Python, Pandas, Numpy, Flask, Inflection, Seaborn, Scikit-Learn, Boruta, Linear Regression, Random Forest, XGBoost, Git, Heroku Cloud, Agile Methodology.  
 - **Repository:** [GitHub Link](https://github.com/felipevalory/previsao_de_vendas)  
 
-#### **Project 3: Delivery Data Analysis**  
+#### **Project 4: Delivery Data Analysis**  
 - **Description:** A dashboard to monitor strategic KPIs for a delivery company.  
 - **Technologies Used:** Python, Pandas, Matplotlib, Plotly, Streamlit, Streamlit Cloud, Git, Jupyter Lab.  
 - **Repository:** [GitHub Link](https://github.com/felipevalory/Curry-Company)  
 
-#### **Project 4: Machine Learning Experiments**  
+#### **Project 5: Machine Learning Experiments**  
 - **Description:** Performance analysis of Regression, Classification, and Clustering models.  
 - **Technologies Used:** Regression, Classification, and Clustering Algorithms, Performance Metrics (RMSE, MSE, MAE, MAPE, Precision, Recall, ROC, F1-Score, Silhouette Score, R2), Scikit-Learn.  
 - **Repository:** [GitHub Link](https://github.com/felipevalory/Machine_Learning)  
 
-#### **Project 5: Airbnb Dashboard**  
+#### **Project 6: Airbnb Dashboard**  
 - **Description:** Data analysis for Airbnb revenue and customer behavior to generate insights.  
 - **Technologies Used:** Power Query, Power BI.  
 - **Repository:** [Access the Dashboard](https://bit.ly/3SfpE4V)  
@@ -54,7 +59,7 @@ A showcase of the most impactful projects I’ve developed, demonstrating my han
 ## Tools
 
 - **Data Collect and Storage:** SQL, MySQL and Postgres
-- **Data Process and Analysis:** Python
+- **Data Process and Analysis:** Python and statistics
 - **Development:** Git, Scrum, Project Management
 - **Data Visualization:** Power BI, Looker and Streamlit web
 - **Machine Learning Modeling:** Classification, Regression and Clustering
